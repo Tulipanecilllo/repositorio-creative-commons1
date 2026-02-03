@@ -1,6 +1,7 @@
 # Actividad 2 de Licencias Creative Commons
 
 Autor: Oleidy Jimenez M, Lia Nicole, Francis Mendez , Samuel Sanchez, Ronal Mojica
+
 Tema: Ética, Ciberseguridad y Derechos de Autor en la Web  
 
 ## Descripción
