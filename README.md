@@ -12,6 +12,7 @@ El objetivo es identificar diferentes tipos de licencias y explicar las condicio
 Archivo: imagen1.jpg  
 Autor: Gerd Altmann  
 Fuente: https://www.publicdomainpictures.net/es/view-image.php?image=367267&picture=redes-sociales 
+
 Licencia: CC0 – Dominio Público  
 
 Permite uso libre, modificación y distribución para fines personales y comerciales sin necesidad de atribución.
@@ -22,6 +23,7 @@ Permite uso libre, modificación y distribución para fines personales y comerci
 Archivo: imagen2.jpg  
 Autor: Kai Stachowiak  
 Fuente: https://www.publicdomainpictures.net/es/view-image.php?image=312831&picture=redes
+
 Licencia: CC0 – Dominio Público  
 
 Permite uso libre sin restricciones de derechos de autor.
@@ -32,6 +34,7 @@ Permite uso libre sin restricciones de derechos de autor.
 Archivo: imagen3.jpg  
 Autor: LordTRex  
 Fuente: https://www.deviantart.com/lordtrexyt/art/Super-Mario-Bros-Wonder-Thumbnail-1006330628
+
 Licencia: CC BY-NC-SA 3.0  
 
 Permite el uso y modificación de la imagen con atribución al autor, no permite uso comercial y exige compartir bajo la misma licencia.
@@ -42,6 +45,7 @@ Permite el uso y modificación de la imagen con atribución al autor, no permite
 Archivo: imagen5.jpg  
 Autor: The Spokes  
 Fuente: https://commons.wikimedia.org/wiki/File:"Waking_Up_in_Davis"_Album_Cover.jpg 
+
 Licencia: CC BY 3.0  
 
 Permite uso y modificación con la condición de otorgar crédito al autor.
@@ -52,6 +56,7 @@ Permite uso y modificación con la condición de otorgar crédito al autor.
 Archivo: imagen4.jpg  
 Autor: Strobist
 Fuente: https://www.flickr.com/photos/noodle93/4509815565/in/photostream/ 
+
 Licencia: CC BY 2.0  
 
 Permite uso, modificación y redistribución siempre que se otorgue atribución al autor.
